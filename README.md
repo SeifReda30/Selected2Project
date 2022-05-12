@@ -1,2 +1,2 @@
 # Selected2Project
-A multi-class skin Cancer classification using deep convolutional neural networks
+A multi-class blood cells classification
